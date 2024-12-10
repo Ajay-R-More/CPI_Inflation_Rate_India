@@ -1,4 +1,4 @@
-# CPI Inflation Rate India
+# CPI Inflation Rate of India Analysis using Excel
 
 ### Objective:
 **To analyze and visualize the trends in India's Consumer Price Index (CPI) and inflation rate with a focus on:**
